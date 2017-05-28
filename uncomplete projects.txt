@@ -1,0 +1,5 @@
+composer install
+
+dublicate .env
+
+php artisan key:generate
