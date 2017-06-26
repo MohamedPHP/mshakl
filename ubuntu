@@ -1,0 +1,6 @@
+// start xampp and phpmyadmin
+
+sudo /opt/lampp/lampp start
+
+// to stop
+sudo /opt/lampp/lampp stop
