@@ -4,3 +4,12 @@ sudo /opt/lampp/lampp start
 
 // to stop
 sudo /opt/lampp/lampp stop
+
+
+// for software update
+========================
+sudo rm -rvf /var/lib/apt/lists/* 
+// and then:
+sudo apt-get update
+// You may need to reboot computer for it to effect completely by typing:
+sudo shutdown -r now
