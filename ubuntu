@@ -13,3 +13,7 @@ sudo rm -rvf /var/lib/apt/lists/*
 sudo apt-get update
 // You may need to reboot computer for it to effect completely by typing:
 sudo shutdown -r now
+
+// for bluetooth
+sudo service bluetooth
+{start|stop|restart|force-reload|status}
