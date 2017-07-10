@@ -17,3 +17,6 @@ sudo shutdown -r now
 // for bluetooth
 sudo service bluetooth
 {start|stop|restart|force-reload|status}
+
+// for bluetooth proplems check
+https://askubuntu.com/questions/787023/bluetooth-not-working-on-ubuntu-16-04-lts
