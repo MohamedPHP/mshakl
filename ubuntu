@@ -20,3 +20,8 @@ sudo service bluetooth
 
 // for bluetooth proplems check
 https://askubuntu.com/questions/787023/bluetooth-not-working-on-ubuntu-16-04-lts
+
+
+// to change the file permision 
+
+sudo chmod -R 777 /yourpath
