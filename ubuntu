@@ -25,3 +25,11 @@ https://askubuntu.com/questions/787023/bluetooth-not-working-on-ubuntu-16-04-lts
 // to change the file permision 
 
 sudo chmod -R 777 /yourpath
+
+
+If you want to create ZIP files using Ubuntu (or almost any other Linux), use zip. You can install it to Ubuntu by running
+
+sudo apt-get install zip
+Then you can create zip file by running
+
+zip -r compressed_filename.zip foldername
