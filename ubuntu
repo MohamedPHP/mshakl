@@ -26,10 +26,18 @@ https://askubuntu.com/questions/787023/bluetooth-not-working-on-ubuntu-16-04-lts
 
 sudo chmod -R 777 /yourpath
 
-
-If you want to create ZIP files using Ubuntu (or almost any other Linux), use zip. You can install it to Ubuntu by running
+// If you want to create ZIP files using Ubuntu (or almost any other Linux), use zip. You can install it to Ubuntu by running
 
 sudo apt-get install zip
 Then you can create zip file by running
 
 zip -r compressed_filename.zip foldername
+
+// to install laravel with redis
+
+1 - edit config/broadcasting.php
+2 - edit .env File BROADCAST_DRIVER=redis
+3 - sudo apt-get install redis-tools
+4 - sudo apt-get install redis-server
+
+in cmd write redis-cli
