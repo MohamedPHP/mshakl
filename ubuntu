@@ -41,3 +41,7 @@ zip -r compressed_filename.zip foldername
 4 - sudo apt-get install redis-server
 
 in cmd write redis-cli
+
+// for the grub bootloader ubuntu
+
+check: https://askubuntu.com/questions/842141/booting-into-ubuntu-without-grub
