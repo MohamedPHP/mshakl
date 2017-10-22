@@ -45,3 +45,6 @@ in cmd write redis-cli
 // for the grub bootloader ubuntu
 
 check: https://askubuntu.com/questions/842141/booting-into-ubuntu-without-grub
+
+// install laravel on ubuntu
+https://askubuntu.com/questions/764782/install-laravel-5-on-ubuntu-16-04
