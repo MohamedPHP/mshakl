@@ -52,3 +52,6 @@ https://askubuntu.com/questions/764782/install-laravel-5-on-ubuntu-16-04
 // enable pdo extension
 * just uncomment ;extension=php_pdo_mysql.dll to extension=php_pdo_mysql.dll
 * if not working try: sudo apt-get install php7-mysql
+
+// for node and npm
+* https://tecadmin.net/install-latest-nodejs-npm-on-ubuntu/#
