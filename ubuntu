@@ -48,3 +48,6 @@ check: https://askubuntu.com/questions/842141/booting-into-ubuntu-without-grub
 
 // install laravel on ubuntu
 https://askubuntu.com/questions/764782/install-laravel-5-on-ubuntu-16-04
+
+// enable pdo extension
+* just uncomment ;extension=php_pdo_mysql.dll to extension=php_pdo_mysql.dll
